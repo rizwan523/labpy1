@@ -1,7 +1,7 @@
 # labpy1
 
 **penjelasan**
-1.
+
 ![hasilnya](https://github.com/rizwan523/labpy1/blob/master/1.JPG)
 di coding ini berfungsi untuk memasukan angka yang akan di bandingkan
 
